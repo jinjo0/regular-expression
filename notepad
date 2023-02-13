@@ -1,0 +1,1 @@
+remove empty lines on sublime : [find :^\h*\R]  [ replace:]
